@@ -29,6 +29,6 @@
 ## Контакты
 
 - 📧 Email: ana77.bobrova@gmail.com
-- 🐙 GitHub: [github.com/itaeomy](https://github.com/taeomy)  
+- 🐙 GitHub: [github.com/taeomy](https://github.com/taeomy)  
 - 📱 Telegram: [@taeomy](https://t.me/taeomy)
 
